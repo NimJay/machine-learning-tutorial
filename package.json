@@ -1,0 +1,25 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "Easy-to-digest tutorial on Machine Learning.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimJay/machine-learning-tutorial.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "tutorial",
+    "simple"
+  ],
+  "author": "Nim",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NimJay/machine-learning-tutorial/issues"
+  },
+  "homepage": "https://github.com/NimJay/machine-learning-tutorial#readme"
+}

@@ -1,2 +1,4 @@
 node_modules
 css/index.css
+app/*.js
+app/*.map

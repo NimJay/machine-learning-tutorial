@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="graphics(for machine-learning-tutorial).svg">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.58532069"
      inkscape:cx="-40.637713"
-     inkscape:cy="27.131006"
+     inkscape:cy="-41.58653"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,6 +71,14 @@
        height="13.091674"
        x="301.99704"
        y="451.6976" />
+    <rect
+       style="opacity:1;fill:#fafff5;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4183"
+       width="187.93117"
+       height="131.55182"
+       x="221.48686"
+       y="312.55493"
+       ry="4.7877202" />
     <path
        style="opacity:1;fill:#969696;fill-opacity:1;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 230.03028,302.36133 c -8.5184,0 -15.37695,6.85854 -15.37695,15.37695 l 0,119.24805 c 0,8.51841 6.85855,15.375 15.37695,15.375 l 169.2461,0 c 8.5184,0 15.37695,-6.85659 15.37695,-15.375 l 0,-119.24805 c 0,-8.51841 -6.85855,-15.37695 -15.37695,-15.37695 l -169.2461,0 z m 7.73828,15.3164 153.76954,0 c 4.49583,0 8.11523,3.61941 8.11523,8.11524 l 0,103.76953 c 0,4.49583 -3.6194,8.11523 -8.11523,8.11523 l -153.76954,0 c -4.49583,0 -8.11523,-3.6194 -8.11523,-8.11523 l 0,-103.76953 c 0,-4.49583 3.6194,-8.11524 8.11523,-8.11524 z"

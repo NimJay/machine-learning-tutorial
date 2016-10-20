@@ -4,7 +4,7 @@
   "description": "Easy-to-digest tutorial on Machine Learning.",
   "main": "index.js",
   "scripts": {
-    "node-sass": "node-sass --output-style compressed css/index.scss > css/index.css"
+    "node-sass": "node-sass --watch css/index.scss --output css/"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,66 @@
+This is a pure-text version of the Machine Learning tutorial.
+
+
+--------------------------------------------------------------------------------
+----------------------- M A C H I N E   L E A R N I N G ------------------------
+--------------------------------------------------------------------------------
+
+
+
+---------------------- T A B L E   O F   C O N T E N T S -----------------------
+
+- Introduction
+
+
+
+--------------------------- I N T R O D U C T I O N ----------------------------
+
+
+What is Machine Learning?
+A pioneer of Computer Science named Arthur Samuel defines Machine Learning as
+the subfield of Computer Science that "gives computers the ability to learn
+without being explicitly programmed".
+
+
+There are 3 main types of algorithms in Machine Algorithms:
+1) Supervised Learning
+2) Unsupervised Learning
+3) Reinforcement Learning
+
+
+1) Supervised Learning --------------------------
+
+example -----
+We give the algorithm a bunch of photos.
+We also point out the human faces in the photos to the algorithm.
+The algorithm is then given new photos (that it has never seen before).
+The algorithm points out the human faces in the new photos.
+
+In supervised learning, the algorithm is trained using labeled data.
+Then, the algorithm can label unlabeled data.
+
+
+2) Unsupervised Learning ------------------------
+
+example -----
+We give the algorithm a bunch of photos, and nothing else.
+The algorithm looks for patterns in the photos, and invents groups.
+Examples of groups: photos containing humans faces; photos of ducks; and black
+and white photos.
+
+In unsupervised learning, the algorithm finds patterns in the provided data, and
+invents groups. This grouping of data is known as called "clustering", and the
+formed groups are called "clusters".
+
+
+2) Reinforcement Learning -----------------------
+
+example -----
+We give the algorithm an encoding of a chess game. The algorithm is also given a
+function that measure how well it's doing in the chess game. The algorithm spits
+out an effective sequence of chess moves.
+
+In reinforcement learning, the algorithm is given an encoding of some system,
+and a function that measures the algorithm's performance in the system. The
+algorithm uses the given encoding and function to figure out the (almost) best
+sequence of actions to take.

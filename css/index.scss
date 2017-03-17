@@ -9,9 +9,9 @@
 // Colors
 $color-yellow-light: rgba(251, 226, 65, 1);
 $color-yellow: rgba(250, 220, 35, 1);
-$color-blue: rgba(6, 214, 160, 1);
-$color-blue-dark: rgba(6, 204, 153, 1);
-$color-blue-dark-dark: rgba(6, 194, 146, 1);
+$color-purple: rgba(139, 51, 255, 1);
+$color-purple-dark: rgba(128, 31, 255, 1);
+$color-purple-dark-dark: rgba(116, 11, 255, 1);
 $color-black: rgba(30, 30, 30, 1);
 $color-white: rgba(250, 255, 245, 1);
 $color-grey: rgba(60, 60, 60, 1);
@@ -31,7 +31,7 @@ h2 {font-size: 32px;margin: 48px 0px 32px 0px;}
 h3 {font-size: 26px;margin: 48px 0px 26px 0px;}
 h4 {font-size: 22px;margin: 32px 0px 18px 0px;}
 p {font-size: 22px;line-height: 33px;margin: 16px 0px 32px 0px;}
-a {color: $color-blue;text-decoration: none;}
+a {color: $color-purple;text-decoration: none;}
 ol {font-size: 22px;line-height: 33px;}
 em {font-weight: 700;font-style: normal;}
 
@@ -57,7 +57,6 @@ section {
     text-align: center;
     img {height: 200px;}
     background-color: $color-yellow-light;
-    a {color: $color-blue-dark-dark;}
 }
 
 
@@ -75,6 +74,6 @@ section {
 
 
 #introduction {
-    background-color: $color-blue;
+    background-color: $color-purple;
     background-color: $color-yellow-light;
 }
